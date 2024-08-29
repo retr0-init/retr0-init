@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- [Email PGP](email_PGP.md)
-- [How to verify I am myself?](VERIFICATION.md)
+- 📧 [Email PGP](email_PGP.md)
+- 🛂 [How to verify I am myself?](VERIFICATION.md)
+- ☕🪙 If you want to buy me a coffee, please send Monero (XMR) to this address `87HV28YYpMV5T7gKtp8xcGbQFaPfUc8YjFQishjReVeCZRhR6BgA8J7J1P2T8ALPeQ7uEXR3VEEzBGJAeKU3ke8NVDEosrz`. Thank you 🐱
